@@ -1,2 +1,3 @@
+from decouple import config
 
-KEY = " "
+KEY = config('KEY')
