@@ -1,0 +1,61 @@
+
+.t, p {
+    font-family: 'Tajawal', sans-serif !important;
+    font-size: 1rem !important;
+    margin: 0.1rem !important;
+    color: #2e3334 !important;
+}
+
+.f-z {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    font-family: 'Bangers', cursive;
+    letter-spacing: .2rem;
+    font-size: 4rem;
+}
+
+.section-pad {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+#button {
+    width: 30%;
+}
+
+#map, #chat{
+    height: 200px;
+    margin-bottom: 1.5rem;
+    overflow: auto;
+}
+
+.bo {
+    border-color: black;
+}
+
+.bord {
+    color: black;
+    border-color: black;
+}
+
+.bord:hover{
+    color: white;
+    background-color: black;
+}
+
+.i-bg {
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+
+::-webkit-input-placeholder {
+   font-style: italic;
+}
+:-moz-placeholder {
+   font-style: italic;
+}
+::-moz-placeholder {
+   font-style: italic;
+}
+:-ms-input-placeholder {
+   font-style: italic;
+}

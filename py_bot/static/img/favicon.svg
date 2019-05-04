@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
+<pattern  width="75" height="75" patternUnits="userSpaceOnUse" id="Nouvelle_nuance_de_motif_6" viewBox="0 -75 75 75" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 75,0 75,-75 0,-75 		"/>
+		<polygon fill="#8651D3" points="75,0 0,0 0,-75 75,-75 		"/>
+	</g>
+</pattern>
+<g>
+	
+		<pattern  id="SVGID_1_" xlink:href="#Nouvelle_nuance_de_motif_6" patternTransform="matrix(1.2032 0 0 1.2032 1558.1172 1439.6396)">
+	</pattern>
+	<rect fill="url(#SVGID_1_)" width="60" height="60"/>
+	<circle fill="#FFFFFF" cx="30" cy="30" r="28.058"/>
+	<pattern  id="SVGID_2_" xlink:href="#Nouvelle_nuance_de_motif_6" patternTransform="matrix(1 0 0 1 -51 -75)">
+	</pattern>
+	<circle fill="none" stroke="url(#SVGID_2_)" stroke-width="3" stroke-miterlimit="10" cx="30" cy="30" r="20.421"/>
+	<pattern  id="SVGID_3_" xlink:href="#Nouvelle_nuance_de_motif_6" patternTransform="matrix(1 0 0 1 -51 -75)">
+	</pattern>
+	<path fill="none" stroke="url(#SVGID_3_)" stroke-width="7" stroke-miterlimit="10" d="M18.545,30.955
+		c0-6.854,5.556-12.41,12.41-12.41"/>
+	<pattern  id="SVGID_4_" xlink:href="#Nouvelle_nuance_de_motif_6" patternTransform="matrix(1 0 0 1 -100 -63)">
+	</pattern>
+	<circle fill="#FFFFFF" stroke="url(#SVGID_4_)" stroke-miterlimit="10" cx="30" cy="30" r="6.205"/>
+</g>
+</svg>
