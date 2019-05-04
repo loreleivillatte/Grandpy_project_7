@@ -1,5 +1,5 @@
 venv/
 .idea/
-py_bot/_pycache_/
+_pycache_/
 py_bot/.env
 .env
